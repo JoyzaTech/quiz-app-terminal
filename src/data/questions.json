@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "question": "What company released Windows 95 in 1995?",
+      "options": ["Apple", "Microsoft", "IBM", "Google"],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 2,
+      "question": "What was the name of the first popular web browser, released in 1993?",
+      "options": ["Internet Explorer", "Netscape Navigator", "Mosaic", "Firefox"],
+      "answer": "Mosaic"
+    },
+    {
+      "id": 3,
+      "question": "Which iconic portable music player was introduced by Apple in 2001?",
+      "options": ["Zune", "Walkman", "iPod", "Discman"],
+      "answer": "iPod"
+    },
+    {
+      "id": 4,
+      "question": "What is the name of the search engine that Google overtook in popularity in the early 2000s?",
+      "options": ["Yahoo!", "Ask Jeeves", "AltaVista", "Lycos"],
+      "answer": "Yahoo!"
+    },
+    {
+      "id": 5,
+      "question": "Which gaming console was the first to use DVDs as its main media format?",
+      "options": ["PlayStation 2", "Xbox", "GameCube", "Dreamcast"],
+      "answer": "PlayStation 2"
+    },
+    {
+      "id": 6,
+      "question": "What programming language was officially released by Sun Microsystems in 1995?",
+      "options": ["Java", "C++", "Python", "Ruby"],
+      "answer": "Java"
+    },
+    {
+      "id": 7,
+      "question": "Which social media platform was launched in 2004 and later became a major player in the industry?",
+      "options": ["MySpace", "LinkedIn", "Facebook", "Friendster"],
+      "answer": "Facebook"
+    },
+    {
+      "id": 8,
+      "question": "What was the first search engine to provide a 'pagerank' system in 1998?",
+      "options": ["Google", "Yahoo!", "Ask Jeeves", "AltaVista"],
+      "answer": "Google"
+    },
+    {
+      "id": 9,
+      "question": "Which company developed the Linux kernel in 1991?",
+      "options": ["IBM", "Linus Torvalds", "Red Hat", "Microsoft"],
+      "answer": "Linus Torvalds"
+    },
+    {
+      "id": 10,
+      "question": "What year was the USB (Universal Serial Bus) standard first introduced?",
+      "options": ["1994", "1996", "1998", "2000"],
+      "answer": "1996"
+    },
+    {
+      "id": 11,
+      "question": "What was the first commercially successful smartphone, released in 2007?",
+      "options": ["BlackBerry", "iPhone", "Palm Pilot", "Nokia Communicator"],
+      "answer": "iPhone"
+    },
+    {
+      "id": 12,
+      "question": "Which company introduced the Pentium processor in 1993?",
+      "options": ["Intel", "AMD", "NVIDIA", "Qualcomm"],
+      "answer": "Intel"
+    },
+    {
+      "id": 13,
+      "question": "Which video streaming platform was launched in 2005 and became one of the largest online video platforms?",
+      "options": ["Vimeo", "Dailymotion", "YouTube", "Hulu"],
+      "answer": "YouTube"
+    },
+    {
+      "id": 14,
+      "question": "Which company acquired YouTube in 2006?",
+      "options": ["Google", "Yahoo!", "Microsoft", "Facebook"],
+      "answer": "Google"
+    },
+    {
+      "id": 15,
+      "question": "What was the name of the first portable laptop released by Apple in 1991?",
+      "options": ["MacBook", "PowerBook", "iBook", "Lisa"],
+      "answer": "PowerBook"
+    },
+    {
+      "id": 16,
+      "question": "Which year did the first Wi-Fi standard (802.11b) get introduced?",
+      "options": ["1997", "1999", "2001", "2003"],
+      "answer": "1999"
+    },
+    {
+      "id": 17,
+      "question": "Which operating system was introduced by Microsoft in 2001 and became a landmark product?",
+      "options": ["Windows XP", "Windows 2000", "Windows ME", "Windows Vista"],
+      "answer": "Windows XP"
+    },
+    {
+      "id": 18,
+      "question": "Which company launched the iconic ThinkPad laptop series in 1992?",
+      "options": ["HP", "Lenovo", "IBM", "Dell"],
+      "answer": "IBM"
+    },
+    {
+      "id": 19,
+      "question": "What year did the first iMac computer launch?",
+      "options": ["1996", "1998", "2000", "2002"],
+      "answer": "1998"
+    },
+    {
+      "id": 20,
+      "question": "Which popular programming language, known for simplicity, was created by Guido van Rossum in 1991?",
+      "options": ["Ruby", "Python", "Perl", "JavaScript"],
+      "answer": "Python"
+    },
+    {
+      "id": 21,
+      "question": "Which cloud storage service launched in 2007?",
+      "options": ["Dropbox", "Google Drive", "OneDrive", "iCloud"],
+      "answer": "Dropbox"
+    },
+    {
+      "id": 22,
+      "question": "What year was the PlayStation 1 released?",
+      "options": ["1992", "1994", "1996", "1998"],
+      "answer": "1994"
+    },
+    {
+      "id": 23,
+      "question": "Which company created the first commercial web server software in 1995?",
+      "options": ["Apache", "Microsoft", "Netscape", "Oracle"],
+      "answer": "Netscape"
+    },
+    {
+      "id": 24,
+      "question": "Which gaming console, launched in 2006, introduced motion controls?",
+      "options": ["Xbox 360", "PlayStation 3", "Wii", "Dreamcast"],
+      "answer": "Wii"
+    },
+    {
+      "id": 25,
+      "question": "What year did the first Android OS release?",
+      "options": ["2005", "2007", "2008", "2010"],
+      "answer": "2008"
+    }
+  ]

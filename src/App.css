@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'pixel';
+  src: url('../public/fonts/pixel.ttf');
+}
+
+body {
+  background-color: #000000;
+  color: #00ff00;
+  font-family: 'pixel';
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+h1, h2, p {
+  margin: 10px 0;
+  color: #00ff00;
+}
+
+button {
+  font-family: 'pixel';
+  background-color: #002b36;
+  color: #00ff00;
+  border: 1px solid #00ff00;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:disabled {
+  background-color: #003b46;
+  color: #004f5e;
+  cursor: not-allowed;
+}
+
+button:hover:not(:disabled) {
+  background-color: #005f6b;
+  color: #ffffff;
+}
+
+.feedback.correct {
+  color: #00ff00; 
+}
+
+.feedback.incorrect {
+  color: #ff0000;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #001f1f;
+  border: 1px solid #00ff00;
+  margin: 5px 0;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+li:hover {
+  background-color: #005f5f;
+}
+
+.option.selected {
+  background-color: #00ff00;
+  color: #000000;
+}
+
+.blink {
+  animation: blink 1s steps(2, start) infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+.boot-screen {
+  color: #00ff00;
+  font-family: 'pixel';
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 20%;
+}
